@@ -1,4 +1,4 @@
-#Sysbench Installation
+###Sysbench Installation
 
 First, we need to install the sysbench, I am installing sysbench on another server so that we can test the actual impact of load on our MySQL server.
 
@@ -26,7 +26,7 @@ Enter selection:
 ```
 
 
-#Ready Environment for SysBench:
+###Ready Environment for SysBench:
 
 For this test, I am creating the sbtest database and user sbtest_user and will grant all PRIVILEGES to sbtest_user on sbtest database.
 
