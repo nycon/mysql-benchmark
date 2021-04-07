@@ -28,9 +28,9 @@ Enter selection:
 
 ###Ready Environment for SysBench:
 
-For this test, I am creating the sbtest database and user sbtest_user and will grant all PRIVILEGES to sbtest_user on sbtest database.
+For this test, we creating the sbtest database and user sbtest_user and will grant all PRIVILEGES to sbtest_user on sbtest database.
 
-using root;
+using root
 ```
 
 mysql> create database sbtest
